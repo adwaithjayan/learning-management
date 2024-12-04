@@ -8,6 +8,7 @@ client/.env.production
 server/.env
 
 client/.next/
+.idea
 
 .DS_Store
 Thumbs.db
