@@ -9,6 +9,10 @@ server/.env
 
 client/.next/
 .idea/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 05336a26d61d461e73405167fb42c445d43a4e1d
 .DS_Store
 Thumbs.db
 
